@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Abhiram SS</h1>
+<h3 align="center">I Passionate Pentester</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram6542&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram6542" /> </p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhiram6542@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhiram_1729) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-abhi-746a0a225) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@abhiram88614472) 
