@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/Abhiram6542/Abhiram-/blob/main/qxEC8Z.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Abhiram SS</h1>
 <h3 align="center">I Passionate Pentester</h3>
